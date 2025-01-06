@@ -59,7 +59,7 @@ cd src
 
 
 4.	Run the pipeline:
-python main.py
+main.py
 
 5.	Follow the prompts to select a dataset and observe the results.
 
