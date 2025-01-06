@@ -61,13 +61,13 @@ cd src
 4.	Run the pipeline:
 python main.py
 
-	5.	Follow the prompts to select a dataset and observe the results.
+5.	Follow the prompts to select a dataset and observe the results.
 
 ## Results
 
 The pipeline generates visualizations of the estimated camera trajectory, 3D landmarks, and tracking performance. Examples can be found in the project documentation.
 
-Challenges and Future Work
+## Challenges and Future Work
 
 The pipeline faces challenges such as:
 	•	Keypoint dropout during tracking.
